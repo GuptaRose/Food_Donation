@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032341727084",
+    "project_id": "annapurna-3eea6",
+    "storage_bucket": "annapurna-3eea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032341727084:android:a1d25e5040eca1c0707549",
+        "android_client_info": {
+          "package_name": "com.abc.ANNAPURNAFOODDONATION"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC58r8T6vIUnWIcK54AIVtf_aRLGx8zOW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
